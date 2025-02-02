@@ -6,12 +6,12 @@
 
 ***
 
-## Technical References:
+### Technical References:
 - https://www.geeksforgeeks.org/linear-algebra/#
 - https://numpy.org/doc/stable/reference/random/generated/numpy.random.randn.html
 - https://seaborn.pydata.org/generated/seaborn.pairplot.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 
-## Structure References:
+### Structure References:
 - https://github.com/ds-modules/ECC-Sp24/tree/main/Chemistry
 - https://github.com/jonathanferrari/data-lessons/tree/main/hypothesis-testing
